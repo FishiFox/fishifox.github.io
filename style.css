@@ -1,0 +1,60 @@
+
+
+body {
+    background-color:darkseagreen;
+    text-align: center;
+}
+
+h1 {
+    color:black;
+    font-weight: bold;  
+    text-align: center;
+    font-family: fantasy;
+    font-size: 400%;
+}
+    
+h3 {
+    color:darkgreen;
+    text-align: center;
+    font-family: monospace;
+    font-size: xx-large;
+}
+
+h2 {
+    color:darkgreen;
+    text-align: center;
+    font-family: monospace;
+}
+
+#quote {
+    font-style: italic;
+}
+
+#flower {
+    width:1300px;
+    height:auto;
+}
+
+#flower2 {
+    width:600px;
+    height: auto;
+}
+
+#quiz_text {
+    font-size: 300%;
+    padding: 10px;
+}
+
+.question {
+    color:darkgreen;
+    text-align: center;
+    font-size: 200%;
+}
+
+.answers {
+    color: black;
+    font-size: 150%;
+    padding: 10px;
+    
+}
+
