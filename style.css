@@ -1,5 +1,4 @@
 
-
 body {
     background-color:darkseagreen;
     text-align: center;
@@ -35,14 +34,16 @@ h2 {
     height:auto;
 }
 
-#flower2 {
-    width:600px;
+#divider {
+    width:200px;
     height: auto;
+    padding: 10px;
 }
 
-#quiz_text {
+#header_text {
     font-size: 300%;
     padding: 10px;
+    color:black;
 }
 
 .question {
@@ -56,5 +57,24 @@ h2 {
     font-size: 150%;
     padding: 10px;
     
+}
+
+#submit {
+    width: 150px;
+    height: 60px;
+    font-size: 130%;
+    font-style: bold;
+    
+    background-color: white;
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin:10px;
+}
+
+#results {
+    padding-bottom: 50px;
 }
 
